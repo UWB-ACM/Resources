@@ -31,5 +31,5 @@ brief description of it's contents.
 If you wish to add to this repository, please fork the repository and open 
 a new pull request with your changes.
 
-[2018-spr-hackathon]: 2018-2019/Spring/Hackathon/Hackathon-Documentation.md
+[2018-spr-hackathon]: 2017-2018/Spring/Hackathon/README.md
 [acm-info-slides]: Materials/About-ACM/README.md
